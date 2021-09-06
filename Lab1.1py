@@ -1,0 +1,13 @@
+# Student ID: 1201200825 #
+# Student Name: LimZheKhae 
+
+
+
+
+print("I like Python")
+
+
+
+
+person = input("Please enter your name")
+print("Hello", person)
